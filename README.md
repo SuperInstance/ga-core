@@ -37,3 +37,5 @@ let embedded = Conformal::embed_point([1.0, 2.0, 3.0]);
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
